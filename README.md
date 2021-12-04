@@ -1,2 +1,2 @@
 # gameoflife1
-hh
+Conway gameoflife recreated. 
